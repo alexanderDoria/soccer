@@ -1,0 +1,2 @@
+# soccer
+probabalistic soccer game
